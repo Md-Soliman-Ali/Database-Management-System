@@ -1,0 +1,34 @@
+.login_box{
+    max-width:500px;
+    float:none;
+    margin:150px auto;
+    }
+
+.login-left{
+    background-color: rgba(211,211,211,0.5);
+    padding: 50px;
+    
+}
+
+.form-control{
+    background-color: transparent !important;
+}
+
+.login {
+    
+    background-image: url("image2.jpg")!important;
+    background-size: cover;
+    Background-repeat: no-repeat;
+}
+
+.index {
+    background-image: url("image.jpg")!important;
+    background-position: inherit;
+    
+}
+
+.view {
+    background-image: url("image3.jpg")!important;
+    background-size: cover;
+    Background-repeat: no-repeat;
+}
